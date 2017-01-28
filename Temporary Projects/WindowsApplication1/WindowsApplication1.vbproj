@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{3DCB45BB-8BC1-428F-BDB1-B54708B05334}</ProjectGuid>
+    <ProjectGuid>{3A71266A-8846-4AD5-A98B-2C305F71A62F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
     <RootNamespace>WindowsApplication1</RootNamespace>
